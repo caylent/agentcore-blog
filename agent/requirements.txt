@@ -1,0 +1,6 @@
+boto3==1.42.30
+bedrock-agentcore==1.2.0
+langgraph==1.0.6
+langchain==1.2.6
+langchain-aws==1.2.1
+python-dotenv==1.2.1
